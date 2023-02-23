@@ -59,7 +59,7 @@ class ComputerProvider(BaseProvider):
         computer.screen = self.random_element(self.Screen)
         computer.hertz = self.random_element(self.Herts)
         computer.illumination = self.random_element(self.Illumination)
-        computer.price = self.random_int(30000000, 200000000)
+        computer.price = self.random_int(15000, 40000)
         return computer
 
 
