@@ -9,5 +9,6 @@
 
 ![image](https://user-images.githubusercontent.com/99838947/221641641-f903c076-c1c3-46cb-a960-b281038e2747.png)
 
-После нажатия на кнопку
+# После нажатия на кнопку
+
 ![image](https://user-images.githubusercontent.com/99838947/221642462-7b89b8bb-ace5-4a5b-81bd-75d3ec2ab012.png)
