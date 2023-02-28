@@ -186,7 +186,7 @@ price_list = ["15000-20000", "20000-25000", "25000-30000", "30000-35000", "35000
 #далее стандартное создание интерфейса с помощью tkinter
 window = tk.Tk()
 window.title('Computer')
-window.geometry('900x700')
+window.geometry('853x700')
 style = Style()
 style.theme_use('default')
 style.configure('TNotebook.Tab',
