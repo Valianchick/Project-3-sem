@@ -10,7 +10,7 @@
 
 ## Интерфейс 
 
-![image](https://user-images.githubusercontent.com/99838947/221866572-05425663-0f1b-4aaa-b3d1-2a441e875fae.png)
+![image](https://user-images.githubusercontent.com/99838947/221867425-f0964f80-cb47-47eb-abca-221d6ee7874e.png)
 
  Для использования приложения потребуются следующие модули:
  + Tkinter
